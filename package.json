@@ -60,6 +60,10 @@
   "scripts": {
     "test": "mocha -R spec"
   },
+  "files": [
+    "index.*",
+    "temp.js"
+  ],
   "devDependencies": {
     "mocha": "*",
     "should": "^4.0.4",

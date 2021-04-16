@@ -1,5 +1,5 @@
 {
-  "name": "change-indent",
+  "name": "@alloc/change-indent",
   "description": "Change the indentation in a string.",
   "version": "0.1.0",
   "homepage": "https://github.com/jonschlinkert/change-indent",

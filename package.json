@@ -71,7 +71,6 @@
     "verb": ">= 0.2.6"
   },
   "dependencies": {
-    "detect-indent": "^0.2.0",
     "strip-comments": "^0.2.0"
   }
 }
